@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/apache-tomcat-10.0.13">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/byte-buddy-1.12.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/hibernate-core-5.6.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jaxb-osgi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sharaf/Downloads/project jars/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
